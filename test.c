@@ -6,6 +6,7 @@
 int main()
 {
     int i,j=0;
+    j =random();
     int k= 2*j;
     if(k>j)
     {
